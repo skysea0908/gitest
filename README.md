@@ -6,3 +6,18 @@ For class learning
 #### 微貝貝
 ##### 奈米貝
 ###### 真的很小貝
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>Document</title>
+    </head>
+    <body>
+        <h1>Hello World!</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus illo voluptatibus commodi animi, quasi exercitationem     accusamus ipsam voluptas eaque beatae totam laudantium praesentium iure earum dolore sit, in quisquam! Voluptates!</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia saepe maxime magnam quia sunt, perferendis eligendi omnis aperiamex accusantium sequi voluptatibus delectus temporibus! Quasi possimus corrupti dolorum officiis. Ipsam?</p>
+    </body>
+    </html>
