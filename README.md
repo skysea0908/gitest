@@ -21,3 +21,20 @@ For class learning
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia saepe maxime magnam quia sunt, perferendis eligendi omnis aperiamex accusantium sequi voluptatibus delectus temporibus! Quasi possimus corrupti dolorum officiis. Ipsam?</p>
     </body>
     </html>
+    
+***
+* 123
+* 456
+* 789
+    * 123131234
+    * 446554546
+    * 786575765
+***
+- [x] 睡覺
+- [ ] 聽課
+***
+| 班級 |學號|姓名|
+| --- | --- | --- |
+| UD2A | 1107211044 | NM |
+| UD2B | 1107211088 | NM |
+| UD2C | 1107211132 | NM |
