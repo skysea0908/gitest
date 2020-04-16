@@ -7,6 +7,8 @@ For class learning
 ##### 奈米貝
 ###### 真的很小貝
 
+![avatar](https://images.plurk.com/2hnR1wlmI3dCeVfhgSfNLF.jpg)
+
     <!DOCTYPE html>
     <html lang="en">
     <head>
